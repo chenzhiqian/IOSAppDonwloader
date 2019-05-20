@@ -16,7 +16,7 @@
                 <key>bundle-identifier</key>
                 <string>com.Chero.CheroHeath</string>
                 <key>bundle-version</key>
-                <string>2.4.7</string>
+                <string>2.5.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>releaseNotes</key>
