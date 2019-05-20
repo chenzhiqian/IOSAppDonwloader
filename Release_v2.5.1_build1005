@@ -8,7 +8,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://172.31.36.39/CheroHealth_v2.5.1_release_build1004.ipa</string>
+                    <string>http://172.31.36.39/CheroHealth_v2.5.1_release_build1005.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -22,7 +22,7 @@
                 <key>releaseNotes</key>
                 <string>测试OTA</string>
                 <key>title</key>
-                <string>CheroHealth_v2.5.1_release_build1004</string>
+                <string>CheroHealth_v2.5.1_release_build1005</string>
             </dict>
         </dict>
     </array></dict></plist>
